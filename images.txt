@@ -1,1 +1,1 @@
-vulhub/php:5.4.1-cgi
+php:5.4.1-cgi
