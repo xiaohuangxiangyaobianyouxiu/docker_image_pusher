@@ -1,2 +1,1 @@
-vulhub/php:5.4.1-cgi
-vulhub/hadoop:2.8.1
+vulhub/docker:18.03.0
