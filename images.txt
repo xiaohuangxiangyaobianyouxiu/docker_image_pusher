@@ -1,5 +1,4 @@
-vulhub/weblogic:10.3.6.0-2017
-vulhub/weblogic:12.2.1.3-2018
-vulhub/weblogic:10.3.6.0-2017
+vulhub/php:xxe
+
 
 
