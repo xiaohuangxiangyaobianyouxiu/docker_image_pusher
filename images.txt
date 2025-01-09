@@ -1,4 +1,4 @@
-vulhub/php:xxe
+webgoat/webgoat
 
 
 
